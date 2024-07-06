@@ -9,7 +9,7 @@ I am a dedicated full stack developer with a talent for creating robust and scal
 export const ABOUT_TEXT = `Hey there! I’m Chavi Mathur, hailing from Jaipur, a city right in the heart of India.
  I'm currently pursuing my graduate studies in Software Engineering at Seattle University, where I've maintained a 3.8 GPA. I earned my bachelor’s degree from JECRC University in Jaipur.
 
- During my 1.3 years at Deloitte, I collaborated with top minds in Software Engineering domain, gaining valuable experience across diverse technical domains such as front-end, back-end, and cloud computing. In my free time, I enjoy playing outdoor and indoor games like Basketball, Table Tennis, and Snooker. I’m also an avid reader.
+ During my tenure at Deloitte, I collaborated with top minds in Software Engineering domain, gaining valuable experience across diverse technical domains such as front-end, back-end, and cloud computing. In my free time, I enjoy playing outdoor and indoor games like Basketball, Table Tennis, and Snooker. I’m also an avid reader.
 
 Right now, I'm on the lookout for an full-time or a co-op position. I’m particularly interested in full stack or cloud roles but am open to exploring other tech areas too. If my profile piques your interest, feel free to get in touch!`;
 
