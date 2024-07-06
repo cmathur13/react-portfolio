@@ -39,9 +39,10 @@ const About = () => {
       <h2 className="my-20 text-center text-4xl">
         About <span className="text-neutral-400">Me</span>
       </h2>
-      <div className="flex justify-center items-center flex-col lg:flex-row lg:justify-around">
+      <div className="flex justify-center items-center flex-col lg:flex-row lg:justify-center">
         <div className="w-full lg:w-3/4 p-8">
-          <div className="flex justify-center flex-col items-center text-center lg:items-start lg:text-left">
+          {/* <div className="flex justify-center flex-col items-center text-center lg:items-start lg:text-center"> */}
+          <div className="flex justify-center flex-col items-center text-center">
             {ABOUT_TEXT.split("\n\n").map((paragraph, index) => (
               <p key={index} className="my-2 max-w-xl py-2 text-lg">
                 {paragraph}
