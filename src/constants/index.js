@@ -55,10 +55,10 @@ export const PROJECTS = [
     technologies: ["React.js", "Node.js", "MongoDB", "Axios", "Redux", "JWT"],
   },
   {
-    title: "Netflix Clone",
+    title: "SwiftStream: Low-Latency Cloud-Based Video Streaming Platform",
     image: project3,
     description:
-      "This web application is built using React.js for the frontend, Node.js and Express for the backend, and MongoDB for database storage. The application fetches movie data from The Movie Database (TMDb) API and utilizes CRUD operations for user authentication.",
+      "Created a web application for streaming videos, enabling seamless content browsing, video searching, and push notifications for new content. Utilized the MERN stack with React and Context API for efficient state management, Axios for request handling, and JWT for user authentication. Integrated over 5 TMDB APIs to provide real-time data on the latest movies and TV shows, ensuring up-to-date content for 150+ users. Architected scalable live streaming on AWS, achieving 99.9% uptime with under 3-second latency, enhancing user engagement by 20%.",
     technologies: [
       "React.js",
       "Node.js",
@@ -69,10 +69,17 @@ export const PROJECTS = [
     ],
   },
   {
-    title: "Software as a Service: Web Application for Intelligent Budget Management",
+    title: "EcoFinance: Strategic Financial Management System",
     image: project4,
     description:
-      "I developed a secure budget management SAAS application using Angular, NodeJS, TypeScript, and Python. The application was deployed using Docker, Kubernetes, and Azure container services, ensuring robustness and achieving 99% uptime. Additionally, I implemented Single Sign-On (SSO) to streamline user authentication, which reduced password-related security issues by 40% and enhanced overall security.",
+      "Developed a full-stack budget management application featuring categorization, tracking, and visualization of periodic expenses. Utilized AngularJS for the frontend, Node.js with Express for the backend, and MySQL for efficient database management. Implemented Single Sign-On (SSO) to enhance security and streamline user authentication across platforms, reducing password-related issues by 40%. Deployed the application with Docker, Kubernetes, and Azure container services, achieving 99.9% uptime and ensuring robust performance.",
+    technologies: ["Angular", "Node.js", "TypeScript", "Python", "Docker", "Kubernetes"],
+  },
+  {
+    title: "ChargeInnovate: Intelligent Optimization System for EV Charging",
+    image: project4,
+    description:
+      "Developed a charging station management system facilitating easy booking of slots for EV charging at nearby stations. Employed Java, Spring Boot, and Angular for user authentication and real-time monitoring, achieving 95% code coverage in unit tests. Implemented clean, maintainable code adhering to SOLID principles and OOP paradigms, ensuring a robust and scalable architecture. Achieved 97.9% uptime, supported over 200 charging stations and served 500 users, enhancing user engagement through intuitive dashboard features.",
     technologies: ["Angular", "Node.js", "TypeScript", "Python", "Docker", "Kubernetes"],
   },
 ];
