@@ -2,12 +2,14 @@ import project1 from "../assets/projects/project-1.png";
 import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.png";
+import project5 from "../assets/projects/project-5.png";
+
 
 export const HERO_CONTENT = `
 I am a dedicated full stack developer with a talent for creating robust and scalable web applications. With around three years of practical experience, I have developed expertise in front-end technologies such as React.js, HTML, and CSS, as well as back-end technologies including Node.js, and databases like MySQL and MongoDB. I also have experience in cloud computing and have worked extensively with various AWS services. My aim is to leverage my skills to develop innovative solutions that enhance business growth and provide outstanding user experiences.`;
 
 export const ABOUT_TEXT = `Hey there! I’m Chavi Mathur, hailing from Jaipur, a city full of culture in India.
- I'm currently pursuing my graduate studies in Software Engineering at Seattle University, where I've maintained a 3.8 GPA. I earned my bachelor’s degree from JECRC University in Jaipur.
+ I'm currently pursuing my graduate studies in Software Engineering at Seattle University, where I've maintained a 3.7 GPA. I earned my bachelor’s degree from JECRC University in Jaipur.
 
  During my tenure at Deloitte, I collaborated with top minds in Software Engineering domain, gaining valuable experience across diverse technical domains such as front-end, back-end, and cloud computing. In my free time, I enjoy playing outdoor and indoor games like Basketball, Table Tennis, and Badminton.
 
@@ -77,10 +79,10 @@ export const PROJECTS = [
   },
   {
     title: "ChargeInnovate: Intelligent Optimization System for EV Charging",
-    image: project4,
+    image: project5,
     description:
       "Developed a charging station management system facilitating easy booking of slots for EV charging at nearby stations. Employed Java, Spring Boot, and Angular for user authentication and real-time monitoring, achieving 95% code coverage in unit tests. Implemented clean, maintainable code adhering to SOLID principles and OOP paradigms, ensuring a robust and scalable architecture. Achieved 97.9% uptime, supported over 200 charging stations and served 500 users, enhancing user engagement through intuitive dashboard features.",
-    technologies: ["Angular", "Node.js", "TypeScript", "Python", "Docker", "Kubernetes"],
+    technologies: ["JAVA", "Angular", "Spring Boot", "JUnit", "HTML/CSS", "MySQL"],
   },
 ];
 
