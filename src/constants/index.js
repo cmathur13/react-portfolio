@@ -17,18 +17,18 @@ Right now, I'm on the lookout for an full-time or a co-op position. I’m partic
 
 export const EXPERIENCES = [
   {
-    year: "Jun 2022 - Sep 2023",
+    year: "Mar 2022 - Sep 2023",
     role: "Software Developer",
-    company: "Deloitte",
+    company: "Deloitte (Bangalore, India)",
     description: `During my tenure at Deloitte, I led a critical project to migrate our customer service database from Informix-4GL to PostgreSQL, modernizing our data infrastructure. I utilized Java (Maven), Spring Boot, and Azure DevOps to develop a customer query analysis system with CI/CD capabilities, improving performance and ensuring secure authentication using OAuth and JWT.
 
     In collaboration with cross-functional teams, I created a custom plugin in Oracle SQL Developer to automate SQL query generation, significantly enhancing efficiency. Additionally, I developed an IntelliJ plugin to automate Java file creation with PRD templates and boilerplate code, streamlining our development processes. This project showcases my expertise in system migration, performance enhancement, and innovative automation.`,
     technologies: ["Java", "OCPP 1.6", "Java AWT", "Spring Boot", "Oracle SQL Dev", "Agile"],
   },
   {
-    year: "Feb 2022 - Jun 2022",
+    year: "Jan 2022 - Mar 2022",
     role: "Remote Software Engineer",
-    company: "Advaiya Technology Solutions",
+    company: "Advaiya Technology Solutions (Seattle, WA)",
     description: `During my tenure, I implemented dynamic token generation for a custom API in Power BI to ensure up-to-date data retrieval and facilitate data analysis. I developed and integrated scripts for dynamic token generation, configured Power BI, and tested the process, which reduced manual effort by 70%. This initiative enabled seamless and secure data updates, improving report accuracy by 90% and cutting project costs by $20,000 annually.`,
     technologies: ["Power BI", "Data analysis"],
   },
