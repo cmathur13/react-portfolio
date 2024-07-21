@@ -6,7 +6,7 @@ import project5 from "../assets/projects/project-5.png";
 
 
 export const HERO_CONTENT = `
-I am a dedicated full stack developer with a talent for creating robust and scalable web applications. With around three years of practical experience, I have developed expertise in front-end technologies such as React.js, HTML, and CSS, as well as back-end technologies including Node.js, and databases like MySQL and MongoDB. I also have experience in cloud computing and have worked extensively with various AWS services. My aim is to leverage my skills to develop innovative solutions that enhance business growth and provide outstanding user experiences.`;
+I am a dedicated full stack developer with a talent for creating robust and scalable web applications. With around two years of practical experience, I have developed expertise in front-end technologies such as React.js, HTML, and CSS, as well as back-end technologies including Node.js, Java Spring Boot, and databases like MySQL and MongoDB. I also have experience in cloud computing and have worked extensively with various AWS services. My aim is to leverage my skills to develop innovative solutions that enhance business growth and provide outstanding user experiences.`;
 
 export const ABOUT_TEXT = `Hey there! I’m Chavi Mathur, hailing from Jaipur, a city full of culture in India.
  I'm currently pursuing my graduate studies in Software Engineering at Seattle University, where I've maintained a 3.7 GPA. I earned my bachelor’s degree from JECRC University in Jaipur.
@@ -20,9 +20,9 @@ export const EXPERIENCES = [
     year: "Jun 2022 - Sep 2023",
     role: "Software Developer",
     company: "Deloitte",
-    description: `At Deloitte, I collaborated with my team to develop B2B applications in the e-commerce sector using the OSF framework (React-based). I focused on refactoring code to enhance performance, streamlining processes to prevent redundant API calls and unnecessary UI updates. I optimized delivery management systems by leveraging AWS Lambda functions, SQS, SNS, JavaScript, and DynamoDB to create multiple APIs. I also minimized downtime and resolved production issues through effective testing and real-time incident resolution.
+    description: `During my tenure at Deloitte, I led a critical project to migrate our customer service database from Informix-4GL to PostgreSQL, modernizing our data infrastructure. I utilized Java (Maven), Spring Boot, and Azure DevOps to develop a customer query analysis system with CI/CD capabilities, improving performance and ensuring secure authentication using OAuth and JWT.
 
-    During my tenure, I created a plugin within Oracle SQL Developer, improving user efficiency by 35% and streamlining database management. I developed an integrated plugin for IntelliJ to automate Java file creation, boosting performance optimization by 70%. I designed a Charging Station Management Application with booking and billing integration using OCPP 1.6. Implementing Java AWT token authentication, I reduced unauthorized access by 50%. I spearheaded sprint planning and demos, managing a team of 15 developers, resulting in a 25% increase in project efficiency. Additionally, I leveraged Java Spring Boot for the backend of an Educational App and built a chat application that led to a 50% increase in collaboration. I guided agile adoption, which boosted team synergy and increased project completion rates by 60%.`,
+    In collaboration with cross-functional teams, I created a custom plugin in Oracle SQL Developer to automate SQL query generation, significantly enhancing efficiency. Additionally, I developed an IntelliJ plugin to automate Java file creation with PRD templates and boilerplate code, streamlining our development processes. This project showcases my expertise in system migration, performance enhancement, and innovative automation.`,
     technologies: ["Java", "OCPP 1.6", "Java AWT", "Spring Boot", "Oracle SQL Dev", "Agile"],
   },
   {
