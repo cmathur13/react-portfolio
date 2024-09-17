@@ -3,6 +3,8 @@ import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.png";
 import project5 from "../assets/projects/project-5.png";
+import project6 from "../assets/projects/project-6.png";
+import project7 from "../assets/projects/project-7.png";
 
 
 export const HERO_CONTENT = `
@@ -16,6 +18,14 @@ export const ABOUT_TEXT = `Hey there! I’m Chavi Mathur, hailing from Jaipur, a
 Right now, I'm on the lookout for an full-time or a co-op position. I’m particularly interested in full stack or cloud roles but am open to exploring other tech areas too. If my profile piques your interest, feel free to get in touch!`;
 
 export const EXPERIENCES = [
+  {
+    year: "Jun 2024 – Sep 2024",
+    role: "Software Engineer (SWE Fellowship)",
+    company: "Headstarter AI (New York, Remote)",
+    description: `During my SWE Fellowship at Headstarter AI, I developed a specialized academic chatbot using LlamaIndex, Chainlit, and ReAct, designed to engage over 1000 students and researchers. I implemented Retrieval Augmented Generation (RAG) with OpenAI's model to provide real-time, relevant responses, enhancing user interaction and engagement. Additionally, I designed and deployed a user-friendly conversational interface, with ongoing efforts to optimize user adoption and engagement.`,
+    technologies: ["LlamaIndex", "Chainlit", "ReAct", "OpenAI", "Python"]
+},
+
   {
     year: "Mar 2022 - Sep 2023",
     role: "Software Developer",
@@ -32,16 +42,27 @@ export const EXPERIENCES = [
     description: `During my tenure, I implemented dynamic token generation for a custom API in Power BI to ensure up-to-date data retrieval and facilitate data analysis. I developed and integrated scripts for dynamic token generation, configured Power BI, and tested the process, which reduced manual effort by 70%. This initiative enabled seamless and secure data updates, improving report accuracy by 90% and cutting project costs by $20,000 annually.`,
     technologies: ["Power BI", "Data analysis"],
   },
-  // {
-  //   year: "Jan 2020 - Jun 2020",
-  //   role: "Software Engineer Intern",
-  //   company: "Tech Mahindra",
-  //   description: `I significantly improved the code coverage for three sub-modules within the Order Management module, achieving over 90% coverage through the use of JUnit and Mockito for testing. Moreover, I boosted efficiency in business process management by incorporating 'flowable', a flexible business process engine.`,
-  //   technologies: ["Java", "Flowable", "JUnit", "Mockito", "HTML", "CSS"],
-  // },
+
 ];
 
 export const PROJECTS = [
+  {
+    title: "Academic Chatbot: Engaging Students and Researchers",
+    image: project6,  // Replace with the appropriate image variable or URL
+    description:
+      "Developed a specialized academic chatbot using LlamaIndex, Chainlit, and ReAct, aimed at engaging over 1000 students and researchers. Implemented Retrieval Augmented Generation (RAG) with OpenAI's model to provide up-to-date and relevant responses in real-time. Designed and deployed a user-friendly conversational interface, with ongoing efforts to drive user adoption and engagement.",
+    technologies: ["LlamaIndex", "Chainlit", "ReAct", "OpenAI", "Python"]
+},
+{
+  title: "Enhanced Credit Card Fraud Detection with Machine Learning in R",
+  image: project7,  // Replace with the appropriate image variable or URL
+  description:
+    "Developed a fraud detection system using R, implementing logistic regression, decision trees, and artificial neural networks (ANN) to identify fraudulent transactions. Applied ROC curves and other evaluation techniques to optimize model performance and enhance detection accuracy. Utilized data visualization to effectively compare and interpret model results, improving reliability and decision-making by 80%.",
+  technologies: ["R", "Logistic Regression", "Decision Trees", "Artificial Neural Networks (ANN)", "Data Visualization"],
+  timeframe: "01/24 – 03/24"
+},
+
+
   {
     title: "AWS Cloud Computing: Cloud Native HR Management SAAS Application",
     image: project1,
@@ -89,5 +110,6 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "8th Ave Seattle, WA 98104 ",
   phoneNo: "+1 (206) 581 9777 ",
-  email: "cmathur13@outlook.com",
+  email: "cmathur@seattleu.edu",
+  alternate_email: "chavimathur00@outlook.com"
 };
