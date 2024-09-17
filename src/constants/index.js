@@ -8,7 +8,8 @@ import project7 from "../assets/projects/project-7.png";
 
 
 export const HERO_CONTENT = `
-I am a dedicated full stack developer with a talent for creating robust and scalable web applications. With around two years of practical experience, I have developed expertise in front-end technologies such as React.js, HTML, and CSS, as well as back-end technologies including Node.js, Java Spring Boot, and databases like MySQL and MongoDB. I also have experience in cloud computing and have worked extensively with various AWS services. My aim is to leverage my skills to develop innovative solutions that enhance business growth and provide outstanding user experiences.`;
+I am an experienced software developer with a strong focus on software implementation, performance enhancement, scalable solutions, data science, and artificial intelligence. I have a proven track record of addressing complex challenges in data science, AI, and prompt engineering, with expertise in technologies like Java, Python, R, Spring Boot, PostgreSQL, and Azure DevOps. I have successfully executed multiple projects, including developing an academic chatbot using AI technologies, implementing machine learning models for fraud detection, and migrating legacy databases to modern platforms. My technical and analytical skills are further supported by hands-on experience in data visualization, AI-driven systems, and CI/CD pipelines.`;
+
 
 export const ABOUT_TEXT = `Hey there! I’m Chavi Mathur, hailing from Jaipur, a city full of culture in India.
  I'm currently pursuing my graduate studies in Software Engineering at Seattle University, where I've maintained a 3.7 GPA. I earned my bachelor’s degree from JECRC University in Jaipur.
