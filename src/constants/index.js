@@ -12,7 +12,7 @@ I am an experienced software developer with a strong focus on software implement
 
 
 export const ABOUT_TEXT = `Hey there! I’m Chavi Mathur, hailing from Jaipur, a city full of culture in India.
- I'm currently pursuing my graduate studies in Software Engineering at Seattle University, where I've maintained a 3.7 GPA. I earned my bachelor’s degree from JECRC University in Jaipur.
+ I'm currently pursuing my graduate studies in Software Engineering at Seattle University, where I've maintained a 3.7 GPA. I earned my bachelor’s degree from JECRC University in Jaipur with an aggregate of 8.6/10.0 GPA.
 
  During my tenure at Deloitte, I collaborated with top minds in Software Engineering domain, gaining valuable experience across diverse technical domains such as front-end, back-end, and cloud computing. In my free time, I enjoy playing outdoor and indoor games like Basketball, Table Tennis, and Badminton.
 
