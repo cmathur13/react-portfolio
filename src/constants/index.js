@@ -106,7 +106,7 @@ export const PROJECTS = [
     technologies: ["JAVA", "Angular", "Spring Boot", "JUnit", "HTML/CSS", "MySQL"],
   },
 ];
-
+//
 export const CONTACT = {
   address: "8th Ave Seattle, WA 98104 ",
   phoneNo: "+1 (206) 581 9777 ",
