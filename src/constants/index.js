@@ -1,7 +1,7 @@
-import project1 from "../assets/projects/project-1.png";
-import project2 from "../assets/projects/project-2.png";
+//import project1 from "../assets/projects/project-1.png";
+//import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
-import project4 from "../assets/projects/project-4.png";
+//import project4 from "../assets/projects/project-4.png";
 import project5 from "../assets/projects/project-5.png";
 import project6 from "../assets/projects/project-6.png";
 import project7 from "../assets/projects/project-7.png";
@@ -62,21 +62,21 @@ export const PROJECTS = [
   timeframe: "01/24 – 03/24"
 },
 
-
+/*
   {
     title: "AWS Cloud Computing: Cloud Native HR Management SAAS Application",
     image: project1,
     description:
       "I built a cloud-native SAAS application with REST APIs using EC2 instances, AWS S3, and DynamoDB. As part of this project, I developed microservices for employee profile and photo management, securing the APIs with OAuth 2.0 authorization. Additionally, I implemented automated deployment pipelines using Jenkins, which enhanced the CI/CD processes and reduced deployment time by 30%.",
     technologies: ["AWS", "REST API", "OAuth 2.0", "Jenkins", "CI/CD"],
-  },
-  {
+  },*/
+/*  {
     title: "Hotel Booking Application",
     image: project2,
     description:
       "This full-stack web application is designed to help users find and book accommodations, including hotels, apartments, and villas. Users can input their desired dates, city, and the number of guests to discover available options. The application allows users to select a hotel and, depending on availability, proceed to book their stay..",
     technologies: ["React.js", "Node.js", "MongoDB", "Axios", "Redux", "JWT"],
-  },
+  },*/
   {
     title: "SwiftStream: Low-Latency Cloud-Based Video Streaming Platform",
     image: project3,
@@ -91,13 +91,13 @@ export const PROJECTS = [
       "CryptoJS",
     ],
   },
-  {
+/*  {
     title: "EcoFinance: Strategic Financial Management System",
     image: project4,
     description:
       "Developed a full-stack budget management application featuring categorization, tracking, and visualization of periodic expenses. Utilized AngularJS for the frontend, Node.js with Express for the backend, and MySQL for efficient database management. Implemented Single Sign-On (SSO) to enhance security and streamline user authentication across platforms, reducing password-related issues by 40%. Deployed the application with Docker, Kubernetes, and Azure container services, achieving 99.9% uptime and ensuring robust performance.",
     technologies: ["Angular", "Node.js", "TypeScript", "Python", "Docker", "Kubernetes"],
-  },
+  },*/
   {
     title: "ChargeInnovate: Intelligent Optimization System for EV Charging",
     image: project5,
